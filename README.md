@@ -1,3 +1,5 @@
+![Image](preview.png)
+
 # Discord Server Cloner
 
 A modern, easy-to-use Discord server cloner with a clean purple/black themed interface.
@@ -151,3 +153,4 @@ This tool is for educational purposes only. Use responsibly and only on servers 
 ## License
 
 MIT License - Free to use and modify
+
